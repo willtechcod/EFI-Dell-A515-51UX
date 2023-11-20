@@ -17,6 +17,6 @@
 
 
 # Hackintosh Perfect
-EFI notebook 7th Kay Lake 
+EFI notebook 7th Kaby Lake 
 com todas ssdt extraidas nativas direto do windows
 funcionando Wifi e bluetooth nativos intel fucionando.
